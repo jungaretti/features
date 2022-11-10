@@ -1,0 +1,7 @@
+{
+    "name": "ripgrep",
+    "id": "ripgrep",
+    "version": "1.0.0",
+    "description": "A feature to install ripgrep",
+    "options": {}
+}
