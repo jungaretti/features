@@ -7,4 +7,5 @@ Fun features for fun developers.
 
 ## List of Features
 
+- `make`
 - `ripgrep`
