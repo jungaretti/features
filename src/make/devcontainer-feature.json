@@ -1,7 +1,7 @@
 {
     "name": "make",
     "id": "make",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Installs make, which builds your program from a makefile",
     "options": {}
 }
