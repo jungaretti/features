@@ -1,7 +1,7 @@
 
 # ripgrep (ripgrep)
 
-A feature to install ripgrep
+Installs ripgrep, which recursively searches the current directory for a regex pattern
 
 ## Example Usage
 
