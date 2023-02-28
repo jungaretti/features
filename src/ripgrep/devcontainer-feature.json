@@ -1,7 +1,7 @@
 {
     "name": "ripgrep",
     "id": "ripgrep",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Installs ripgrep, which recursively searches the current directory for a regex pattern",
     "options": {}
 }
