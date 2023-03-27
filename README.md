@@ -9,3 +9,4 @@ Fun features for fun developers.
 
 - `make`
 - `ripgrep`
+- `vim`
