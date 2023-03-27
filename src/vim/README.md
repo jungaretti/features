@@ -1,13 +1,13 @@
 
-# make (make)
+# vim (vim)
 
-Installs make, which builds your program from a makefile
+Installs vim, which is a terminal text editor
 
 ## Example Usage
 
 ```json
 "features": {
-    "ghcr.io/jungaretti/features/make:1": {}
+    "ghcr.io/jungaretti/features/vim:1": {}
 }
 ```
 
@@ -21,4 +21,4 @@ Installs make, which builds your program from a makefile
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/jungaretti/features/blob/main/src/make/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/jungaretti/features/blob/main/src/vim/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
